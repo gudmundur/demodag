@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "postinstall": "exit 1"
+    "postinstall": "exit 2"
   },
   "dependencies": {
     "express": "^4.13.3"
