@@ -4,7 +4,8 @@
   "description": "A sample Node.js app for demodag",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "postinstall": "exit 1"
   },
   "dependencies": {
     "express": "^4.13.3"
