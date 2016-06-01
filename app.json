@@ -1,7 +1,0 @@
-{
-  "name": "Demodag sample",
-  "description": "A demo app for demodag",
-  "repository": "https://github.com/gudmundur/demodag",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
-}
